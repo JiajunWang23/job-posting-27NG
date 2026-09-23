@@ -8,12 +8,15 @@ import subprocess
 import sys
 import urllib.request
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 
 SHEET_ID = "1-h9XMUpQfxNLSY5u0y20ZVJmoy6iKo098XVjcrqg9NA"
 GID = "1733775388"
 CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid={GID}"
+TIMEZONE = ZoneInfo("America/Chicago")
 
 
 def repo_root() -> Path:
@@ -65,7 +68,7 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
         "# job posting 27NG",
         "",
         "Source: Jiajun tab from the shared Google Sheet",
-        "Updated: 2026-09-23",
+        f"Updated: {datetime.now(TIMEZONE).date().isoformat()}",
         "",
         "## Summary",
         "",
