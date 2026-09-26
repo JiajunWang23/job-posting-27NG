@@ -1,15 +1,15 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-09-23
+Updated: 2026-09-26
 
 ## Summary
 
-- Total postings: 27
-- Status: applied: 27
-- OA missing / not recorded: 24
-- VO missing / not recorded: 25
-- Most recent application date: 2026.9.23
+- Total postings: 51
+- Status: applied: 51
+- OA missing / not recorded: 47
+- VO missing / not recorded: 48
+- Most recent application date: 2026.9.26
 
 ## Follow-up Queue
 
@@ -17,7 +17,8 @@ Updated: 2026-09-23
 |---|---|---:|---|---|---|
 | bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面-没消息 | [link](https://joinbytedance.com/search/7642279421516941573) |
 | Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
-| Wolverine | C++ Software Engineer | 2026.9.21 | 收到-7天 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
+| Wolverine | C++ Software Engineer | 2026.9.21 | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 
 ## Applications
 
@@ -25,8 +26,8 @@ Updated: 2026-09-23
 |---:|---|---:|---|---|---|---|---|
 | 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面-没消息 | [link](https://joinbytedance.com/search/7642279421516941573) |
 | 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
-| 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | - | - | - |
-| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 收到-7天 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
+| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | 4 | State Street | 2026.9.21 | applied | Software Engineer - REST API Development | - | - | [link](https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer) |
 | 5 | SingleStore | 2026.9.21 | applied | Software Engineer New Grad - Engine | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify) |
 | 6 | Toyota | 2026.9.21 | applied | Software Engineer | - | - | [link](https://careers.toyota.com/us/en/job/10328391/Software-Engineer) |
@@ -50,6 +51,30 @@ Updated: 2026-09-23
 | 24 | AutoStore | 2026.9.23 | applied | Entry Level Software Engineer | - | - | [link](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Entry-Level-Software-Engineer_JR102691) |
 | 25 | Loop | 2026.9.23 | applied | AI Software Engineer, Backend (SF) | - | - | [link](https://link.1p3a.com/?url=https%3A%2F%2Fats.rippling.com%2Floop%2Fjobs%2Ff42fddce-022c-47be-8c57-1b2bb3ee3a7c) |
 | 26 | Loop | 2026.9.23 | applied | Software Engineer, Systems & Performance | - | - | [link](https://link.1p3a.com/?url=https%3A%2F%2Fats.rippling.com%2Floop%2Fjobs%2F5d204606-ff1b-4727-a506-fc19951bf835) |
+| 27 | Applied Intuition | 2026.9.23 | applied | Forward Deployed Engineer | - | - | [link](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application) |
+| 28 | Applied Intuition | 2026.9.23 | applied | Software Engineer - New Grad | - | - | [link](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) |
+| 29 | Northwood | 2026.9.24 | applied | Software Engineer | - | - | [link](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede/application?src=LinkedIn) |
+| 30 | MintMCP | 2026.9.24 | applied | Software Engineer | - | - | [link](https://jobs.ashbyhq.com/mintmcp/a52c88a0-a00b-4731-b878-2fec2f6734ea?utm_source=3kKdvyQlEg) |
+| 31 | imanage | 2026.9.24 | applied | Applied AI Engineer | - | - | [link](https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad) |
+| 32 | Commure | 2026.9.24 | applied | Software Engineer, Scribe AI | - | - | [link](https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?utm_source=PendwzoYyV) |
+| 33 | Pariveda | 2026.9.24 | applied | Entry-Level Software Engineer | - | - | [link](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?utm_source=LinkedInPaid) |
+| 34 | Scale AI | 2026.9.24 | applied | Software Engineer, Public Sector - New Grad | - | - | [link](https://job-boards.greenhouse.io/scaleai/jobs/4736426005?utm_source=Simplify&ref=Simplify) |
+| 35 | ZipRecruiter | 2026.9.25 | applied | Software Engineer New Grad - Multiple Teams | - | - | [link](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108?utm_source=Simplify&ref=Simplify) |
+| 36 | Qumulo | 2026.9.25 | applied | Software Development Engineer New Grad | - | - | [link](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true&utm_source=Simplify&ref=Simplify) |
+| 37 | Parallel Systems | 2026.9.25 | applied | Full Stack Software Engineer 1 - Interfaces | - | - | [link](https://boards.greenhouse.io/parallel/jobs/5247800007?utm_source=Simplify&ref=Simplify) |
+| 38 | GM Financial | 2026.9.25 | applied | Software Development Engineer I (Mobile) | - | - | [link](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260957?utm_source=Simplify&ref=Simplify) |
+| 39 | Abbott | 2026.9.25 | applied | Software Engineer I – 31162389 | - | - | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389?utm_source=Simplify&ref=Simplify) |
+| 40 | SeatGeek | 2026.9.25 | applied | Software Engineer - New Grad | - | - | [link](https://seatgeek.com/jobs/8227548?gh_jid=8227548) |
+| 41 | CACI | 2026.9.25 | applied | Software Engineer Early Career - Cloud | - | - | [link](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679?utm_source=Simplify&ref=Simplify) |
+| 42 | RTX | 2026.9.25 | applied | Software Engineer 1 | - | - | [link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495?utm_source=Simplify&ref=Simplify) |
+| 43 | Adobe | 2026.9.25 | applied | Software Engineer New Grad | - | - | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083?utm_source=Simplify&ref=Simplify) |
+| 44 | HRT | 2026.9.26 | applied | Software Engineer (C++ or Python) – 2027 Grads | - | - | [link](https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads/) |
+| 45 | Nudge | 2026.9.26 | applied | Software Engineer | - | - | [link](https://jobs.ashbyhq.com/nudge/54fbd79c-ff00-48fc-9346-133ba980e6f1/application?utm_source=DQrdzKyOXx) |
+| 46 | revature | 2026.9.26 | applied | ‍Software Engineer | - | - | [link](https://www.revature.com/entry-level-software-engineer?utm_source=linkedin&sourcedBy=BalaLP#entry-level-apply-form) |
+| 47 | Pariveda | 2026.9.26 | applied | Entry-Level Software Engineer | - | - | [link](https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0?utm_source=LinkedInPaid) |
+| 48 | Solace | 2026.9.26 | applied | Associate Software Engineer (College Grad 2027) | - | - | [link](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application) |
+| 49 | Varsity Brands | 2026.9.26 | applied | Software Engineer 1 - .Net | - | - | [link](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application) |
+| 50 | RTX | 2026.9.26 | applied | Software Engineer 1 | - | - | [link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568?utm_source=Simplify&ref=Simplify) |
 
 ## Daily Count
 
@@ -60,4 +85,7 @@ Updated: 2026-09-23
 | 2026.9.02 | 1 |
 | 2026.9.21 | 17 |
 | 2026.9.22 | 1 |
-| 2026.9.23 | 6 |
+| 2026.9.23 | 8 |
+| 2026.9.24 | 6 |
+| 2026.9.25 | 9 |
+| 2026.9.26 | 7 |
