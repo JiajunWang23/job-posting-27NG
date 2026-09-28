@@ -1,21 +1,21 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-09-26
+Updated: 2026-09-28
 
 ## Summary
 
-- Total postings: 51
-- Status: applied: 51
-- OA missing / not recorded: 47
-- VO missing / not recorded: 48
-- Most recent application date: 2026.9.26
+- Total postings: 63
+- Status: applied: 63
+- OA missing / not recorded: 59
+- VO missing / not recorded: 60
+- Most recent application date: 2026.9.27
 
 ## Follow-up Queue
 
 | Company | Position | Applied Date | OA | VO | Link |
 |---|---|---:|---|---|---|
-| bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面-没消息 | [link](https://joinbytedance.com/search/7642279421516941573) |
+| bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
 | Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
 | Wolverine | C++ Software Engineer | 2026.9.21 | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
@@ -24,7 +24,7 @@ Updated: 2026-09-26
 
 | No. | Company | Applied Date | Status | Position | OA | VO | Link |
 |---:|---|---:|---|---|---|---|---|
-| 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面-没消息 | [link](https://joinbytedance.com/search/7642279421516941573) |
+| 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
 | 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
 | 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
@@ -75,6 +75,18 @@ Updated: 2026-09-26
 | 48 | Solace | 2026.9.26 | applied | Associate Software Engineer (College Grad 2027) | - | - | [link](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application) |
 | 49 | Varsity Brands | 2026.9.26 | applied | Software Engineer 1 - .Net | - | - | [link](https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application) |
 | 50 | RTX | 2026.9.26 | applied | Software Engineer 1 | - | - | [link](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568?utm_source=Simplify&ref=Simplify) |
+| 51 | Bloomberg | 2026.9.26 | applied | Software Engineer | - | - | [link](https://bloomberg.avature.net/careers/Private?jobId=21414) |
+| 52 | Space | 2026.9.26 | applied | Software Engineer I, Elixir (New Grad) | - | - | [link](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007?gh_src=eb0h2l5t7us) |
+| 53 | Nuro | 2026.9.26 | applied | Software Engineer, AI Platform - New Grad | - | - | [link](https://www.nuro.ai/careersitem?gh_jid=7351066&gh_src=bcd22a501us) |
+| 54 | okta | 2026.9.26 | applied | Developer Support Associate (New Grad) | - | - | [link](https://www.okta.com/company/careers/developer-support-associate-new-grad-8191506/?gh_src=9smudzns1us) |
+| 55 | amazon | 2026.9.26 | applied | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | - | - | [link](https://account.amazon.jobs/en-US/applicant/jobs/10558915/summary?result=success) |
+| 56 | WHOOP | 2026.9.26 | applied | Software Engineer I (Backend) | - | - | [link](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133?utm_source=Ld4yoN6NDV&src=LinkedIn) |
+| 57 | Neuralink | 2026.9.27 | applied | - | - | - | - |
+| 58 | impact.com | 2026.9.27 | applied | - | - | - | - |
+| 59 | DoorDash | 2026.9.27 | applied | - | - | - | - |
+| 60 | Iterable | 2026.9.27 | applied | - | - | - | - |
+| 61 | Rippling | 2026.9.27 | applied | - | - | - | - |
+| 62 | NVIDIA | 2026.9.27 | applied | - | - | - | - |
 
 ## Daily Count
 
@@ -88,4 +100,5 @@ Updated: 2026-09-26
 | 2026.9.23 | 8 |
 | 2026.9.24 | 6 |
 | 2026.9.25 | 9 |
-| 2026.9.26 | 7 |
+| 2026.9.26 | 13 |
+| 2026.9.27 | 6 |
