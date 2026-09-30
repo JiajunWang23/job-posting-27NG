@@ -1,33 +1,33 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-09-28
+Updated: 2026-09-30
 
 ## Summary
 
-- Total postings: 63
-- Status: applied: 63
-- OA missing / not recorded: 59
-- VO missing / not recorded: 60
-- Most recent application date: 2026.9.27
+- Total postings: 100
+- Status: applied: 100
+- OA missing / not recorded: 96
+- VO missing / not recorded: 97
+- Most recent application date: 2026.9.29
 
 ## Follow-up Queue
 
 | Company | Position | Applied Date | OA | VO | Link |
 |---|---|---:|---|---|---|
 | bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-10.3 3pm | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
-| Wolverine | C++ Software Engineer | 2026.9.21 | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| Wolverine | C++ Software Engineer | 2026.9.21 | 笔试完成 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 
 ## Applications
 
 | No. | Company | Applied Date | Status | Position | OA | VO | Link |
 |---:|---|---:|---|---|---|---|---|
 | 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-reschedule | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-10.3 3pm | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
-| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 收到-9.27due | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 笔试完成 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | 4 | State Street | 2026.9.21 | applied | Software Engineer - REST API Development | - | - | [link](https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer) |
 | 5 | SingleStore | 2026.9.21 | applied | Software Engineer New Grad - Engine | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify) |
 | 6 | Toyota | 2026.9.21 | applied | Software Engineer | - | - | [link](https://careers.toyota.com/us/en/job/10328391/Software-Engineer) |
@@ -81,12 +81,49 @@ Updated: 2026-09-28
 | 54 | okta | 2026.9.26 | applied | Developer Support Associate (New Grad) | - | - | [link](https://www.okta.com/company/careers/developer-support-associate-new-grad-8191506/?gh_src=9smudzns1us) |
 | 55 | amazon | 2026.9.26 | applied | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | - | - | [link](https://account.amazon.jobs/en-US/applicant/jobs/10558915/summary?result=success) |
 | 56 | WHOOP | 2026.9.26 | applied | Software Engineer I (Backend) | - | - | [link](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133?utm_source=Ld4yoN6NDV&src=LinkedIn) |
-| 57 | Neuralink | 2026.9.27 | applied | - | - | - | - |
-| 58 | impact.com | 2026.9.27 | applied | - | - | - | - |
-| 59 | DoorDash | 2026.9.27 | applied | - | - | - | - |
-| 60 | Iterable | 2026.9.27 | applied | - | - | - | - |
-| 61 | Rippling | 2026.9.27 | applied | - | - | - | - |
-| 62 | NVIDIA | 2026.9.27 | applied | - | - | - | - |
+| 57 | Neuralink | 2026.9.27 | applied | Software Engineer, BCI Applications | - | - | [link](https://neuralink.com/careers/apply/?gh_jid=6596365003&gh_src=c356a2533us) |
+| 58 | impact.com | 2026.9.27 | applied | Associate Software Engineer | - | - | [link](https://job-boards.greenhouse.io/impact/jobs/8645964002) |
+| 59 | DoorDash（refer） | 2026.9.27 | applied | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | - | - | [link](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?gh_src=8o9kpzmb1us#app) |
+| 60 | Iterable | 2026.9.27 | applied | Technical Support Engineer - Deliverability | - | - | [link](https://job-boards.greenhouse.io/iterable/jobs/8165080) |
+| 61 | Rippling | 2026.9.27 | applied | Software Engineer II, Backend - Financial Product | - | - | [link](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) |
+| 62 | NVIDIA | 2026.9.27 | applied | JR2007081 System Software Engineer | - | - | [link](https://jobs.nvidia.com/careers/job/893397112877) |
+| 63 | LexisNexis® Risk Solutions | 2026.9.28 | applied | Tech Accelarate Graduate Program | - | - | [link](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Tech-Accelarate-Graduate-Program_R118810) |
+| 64 | Stripe | 2026.9.28 | applied | Software Engineer, New Grad | - | - | [link](https://www.linkedin.com/in/jiajun-w-814867365/) |
+| 65 | Replit | 2026.9.28 | applied | GH Software Engineer - New Grad (2027) | - | - | [link](https://jobs.ashbyhq.com/replit/3abc70dc-5a60-4eb1-bff0-121fe87a8e53/application) |
+| 66 | M.J. Electric | 2026.9.28 | applied | Software Developer | - | - | [link](https://www.indeed.com/viewjob?jk=1ac531ac115b3caa) |
+| 67 | IXL Learning | 2026.9.28 | applied | Software Engineer | - | - | [link](https://www.ixl.com/company/careers/apply?gh_jid=8542254002&gh_src=c1d547if2us) |
+| 68 | Sim | 2026.9.28 | applied | Forward Deployed Engineer | - | - | [link](https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8) |
+| 69 | EAI Technologies | 2026.9.28 | applied | Entry Level Software Developer | - | - | [link](https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer) |
+| 70 | Baanyan Software Services, Inc. | 2026.9.28 | applied | Software Engineer Opportunities | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 71 | Monitoro AI | 2026.9.28 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 72 | Instalily, Inc. | 2026.9.28 | applied | Software Engineer I, General | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 73 | NOSO LABS | 2026.9.28 | applied | Fullstack Software Engineer (New Grad) | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 74 | Temple Allen Industries | 2026.9.28 | applied | Entry Level Machine Learning Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 75 | Pilot Technologies LLC | 2026.9.28 | applied | [Entry Level] Java Developer | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 76 | DriverAI, LLC | 2026.9.28 | applied | Mobile Application Developer | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 77 | Red Bud Industries, Inc. | 2026.9.28 | applied | Web Software Developer | - | - | [link](https://illinois.joinhandshake.com/job-search/11503642?employmentTypes=1&jobType=9&workAuthorization=openToUSVisaSponsorship&query=Software+Engineer&per_page=25&page=1) |
+| 78 | ebay | 2026.9.29 | applied | Software Engineer - Recent Grad (Traffic) | - | - | [link](https://app.ripplematch.com/v2/public/job/20f54c3a?tl=f4dea76b&from_page=tracking_link) |
+| 79 | Plaid | 2026.9.29 | applied | Software Engineering, New Grad | - | - | [link](https://app.ripplematch.com/v2/public/job/726e99d1?from=AllJobsPage) |
+| 80 | Mechanize | 2026.9.29 | applied | Junior Software Engineer | - | - | [link](https://app.ripplematch.com/v2/public/job/3b66547a?from=AllJobsPage) |
+| 81 | Qualcomm | 2026.9.29 | applied | - | - | - | - |
+| 82 | Epitec | 2026.9.29 | applied | Software Engineer | - | - | [link](https://epitec.com/jobs-at-epitec-careerportaldomainroot/software-engineer-107241/apply/) |
+| 83 | Resonate AI | 2026.9.29 | applied | Software Engineer | - | - | - |
+| 84 | TikTok USDS | 2026.9.29 | applied | - | - | - | - |
+| 85 | Intelliswift | 2026.9.29 | applied | - | - | - | - |
+| 86 | AAA Global | 2026.9.29 | applied | - | - | - | - |
+| 87 | Greylock | 2026.9.29 | applied | - | - | - | - |
+| 88 | Kforce | 2026.9.29 | applied | - | - | - | - |
+| 89 | Obsidian Security | 2026.9.29 | applied | - | - | - | - |
+| 90 | Yamaha | 2026.9.29 | applied | Software Engineer I | - | - | - |
+| 91 | Perfect Game | 2026.9.29 | applied | - | - | - | - |
+| 92 | Emonics | 2026.9.29 | applied | - | - | - | - |
+| 93 | Neuralink | 2026.9.29 | applied | - | - | - | - |
+| 94 | PROS | 2026.9.29 | applied | Software Engineer I | - | - | - |
+| 95 | Brivo | 2026.9.29 | applied | - | - | - | - |
+| 96 | Point | 2026.9.29 | applied | - | - | - | - |
+| 97 | Nuro | 2026.9.29 | applied | Software Engineer, Performance Tooling and Infrastructure New Grad | - | - | [link](https://www.nuro.ai/careersitem?gh_jid=8227399) |
+| 98 | Domino Data Lab | 2026.9.29 | applied | Software Engineer - New Grad, 2027 | - | - | [link](https://app.careerpuck.com/job-board/domino-data-lab/job/7992556) |
+| 99 | Xcelerium, Inc. | 2026.9.29 | applied | New Grad Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11043750) |
 
 ## Daily Count
 
@@ -102,3 +139,5 @@ Updated: 2026-09-28
 | 2026.9.25 | 9 |
 | 2026.9.26 | 13 |
 | 2026.9.27 | 6 |
+| 2026.9.28 | 15 |
+| 2026.9.29 | 22 |
