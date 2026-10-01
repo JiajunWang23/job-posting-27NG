@@ -1,15 +1,15 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-09-30
+Updated: 2026-10-01
 
 ## Summary
 
-- Total postings: 100
-- Status: applied: 100
-- OA missing / not recorded: 96
-- VO missing / not recorded: 97
-- Most recent application date: 2026.9.29
+- Total postings: 102
+- Status: applied: 102
+- OA missing / not recorded: 98
+- VO missing / not recorded: 99
+- Most recent application date: 2026.9.30
 
 ## Follow-up Queue
 
@@ -124,6 +124,8 @@ Updated: 2026-09-30
 | 97 | Nuro | 2026.9.29 | applied | Software Engineer, Performance Tooling and Infrastructure New Grad | - | - | [link](https://www.nuro.ai/careersitem?gh_jid=8227399) |
 | 98 | Domino Data Lab | 2026.9.29 | applied | Software Engineer - New Grad, 2027 | - | - | [link](https://app.careerpuck.com/job-board/domino-data-lab/job/7992556) |
 | 99 | Xcelerium, Inc. | 2026.9.29 | applied | New Grad Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11043750) |
+| 100 | iManage | 2026.9.30 | applied | Applied AI Engineer (New or Recent Grad) | - | - | [link](https://illinois.joinhandshake.com/job-search/11537798) |
+| 101 | Citadel | 2026.9.30 | applied | Software Engineer – University Graduate (US) | - | - | [link](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
 
 ## Daily Count
 
@@ -141,3 +143,4 @@ Updated: 2026-09-30
 | 2026.9.27 | 6 |
 | 2026.9.28 | 15 |
 | 2026.9.29 | 22 |
+| 2026.9.30 | 2 |
