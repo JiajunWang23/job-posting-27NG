@@ -1,12 +1,12 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-02
+Updated: 2026-10-03
 
 ## Summary
 
 - Total postings: 510
-- Status: applied: 124, blank: 386
+- Status: applied: 143, blank: 367
 - OA missing / not recorded: 506
 - VO missing / not recorded: 507
 - Most recent application date: 2026.9.30
@@ -142,6 +142,25 @@ Updated: 2026-10-02
 | 115 | Notion | 2026.10.1 | applied | Software Engineer, Early Career | - | - | [link](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
 | 116 | Rocket | 2026.10.1 | applied | Software Engineer I | - | - | [link](https://careers.rocket.com/us/en/job/RCARCAUSR083975EXTERNALENUS/Software-Engineer-I) |
 | 117 | mercor | 2026.10.1 | applied | Data Platform Engineer | - | - | [link](https://www.mercor.com/careers/?ashby_jid=415d2ee3-44b9-40e5-ab4b-04340faa3872&utm_source=Xqz4BKyMEM&src=linkedin) |
+| 118 | Esri | 2026.10.2 | applied | Product Engineer I - ArcGIS Pro Sharing Team | - | - | [link](https://www.esri.com/careers/5227152007?title=product-engineer-i-arcgis-pro-sharing-team&gh_jid=5227152007) |
+| 119 | CO-Ver, Inc. | 2026.10.2 | applied | Full Stack Software Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4473792281/) |
+| 120 | Stealth Startup | 2026.10.2 | applied | Software Engineer (New Grad) | - | - | [link](https://www.linkedin.com/jobs/view/4472908424/) |
+| 121 | Ignitium: ABX Orchestration | 2026.10.2 | applied | Applied AI Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4472319576/) |
+| 122 | Monarch Recruiters | 2026.10.2 | applied | Full Stack Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4380393957/) |
+| 123 | Jack | 2026.10.2 | applied | Founding AI Engineer, Computer Vision / VLMs | - | - | [link](https://www.linkedin.com/jobs/view/4471992203/) |
+| 124 | Goliath Partners | 2026.10.2 | applied | Traditional Backend Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4474750890/) |
+| 125 | Kokusai Semiconductor Equipment Corporation | 2026.10.2 | applied | Software Development Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4473286968/) |
+| 126 | Alexander Chapman | 2026.10.2 | applied | Back End Developer | - | - | [link](https://www.linkedin.com/jobs/view/4472740672/) |
+| 127 | Tank Track | 2026.10.2 | applied | - | - | - | [link](https://illinois.joinhandshake.com/jobs/11421879) |
+| 128 | Alpaca Research Corp. | 2026.10.2 | applied | Application Engineer | - | - | [link](https://illinois.joinhandshake.com/jobs/11455004) |
+| 129 | GLMX, LLC | 2026.10.2 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/jobs/11276880) |
+| 130 | Copperlane | 2026.10.2 | applied | Founding Software Engineer (Full-Time) - Fall 2026 Start | - | - | [link](https://illinois.joinhandshake.com/jobs/11480803) |
+| 131 | CiceroAI Law | 2026.10.2 | applied | - | - | - | [link](https://illinois.joinhandshake.com/jobs/11389309) |
+| 132 | Clay | 2026.10.2 | applied | Early Career Software Engineer | - | - | [link](https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application) |
+| 133 | ZipRecruiter | 2026.10.2 | applied | Software Engineer - New Grad | - | - | [link](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) |
+| 134 | Parallel Systems | 2026.10.2 | applied | Full Stack Software Engineer I | - | - | [link](https://job-boards.greenhouse.io/parallel/jobs/524780007) |
+| 135 | robinhood | 2026.10.2 | applied | Software Engineer | - | - | [link](https://job-boards.greenhouse.io/robinhood/jobs/7263592/confirmation?gh_src=ed898e781us) |
+| 141 | Quora | 2026.10.2 | applied | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | - | - | [link](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application) |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
@@ -503,44 +522,26 @@ Updated: 2026-10-02
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
+| 142 | Hedge | 2026.10.1 | applied | Founding Engineer - Hedge (YC P26) | - | - | [link](https://illinois.joinhandshake.com/job-search/11500211) |
+| 136 | Noon AI | 2026.10.1 | applied | Software Engineer (New Grad) | - | - | [link](https://illinois.joinhandshake.com/job-search/11541235) |
+| 137 | TradingBlock | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11496532) |
+| 138 | Commvault Systems | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11538113) |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| 126 | Hedge | 2026.10.1 | applied | Founding Engineer - Hedge (YC P26) | - | - | [link](https://illinois.joinhandshake.com/job-search/11500211) |
-| 127 | Noon AI | 2026.10.1 | applied | Software Engineer (New Grad) | - | - | [link](https://illinois.joinhandshake.com/job-search/11541235) |
-| 128 | TradingBlock | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11496532) |
-| 129 | Commvault Systems | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11538113) |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| 130 | EvenUp | 2026.10.1 | applied | Software Engineer (New Grad), AI Entities | - | - | [link](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application) |
-| 131 | Citadel Securities | 2026.9.30 | applied | Software Engineer – University Graduate (US) | - | - | [link](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
+| 139 | EvenUp | 2026.10.1 | applied | Software Engineer (New Grad), AI Entities | - | - | [link](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application) |
+| 140 | Citadel Securities | 2026.9.30 | applied | Software Engineer – University Graduate (US) | - | - | [link](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
 
 ## Daily Count
 
 | Date | Count |
 |---:|---:|
-| - | 386 |
+| - | 367 |
 | 2026.10.1 | 15 |
+| 2026.10.2 | 19 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
