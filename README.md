@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-03
+Updated: 2026-10-05
 
 ## Summary
 
-- Total postings: 510
-- Status: applied: 143, blank: 367
-- OA missing / not recorded: 506
-- VO missing / not recorded: 507
+- Total postings: 188
+- Status: applied: 188
+- OA missing / not recorded: 178
+- VO missing / not recorded: 185
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -16,16 +16,22 @@ Updated: 2026-10-03
 | Company | Position | Applied Date | OA | VO | Link |
 |---|---|---:|---|---|---|
 | bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-10.3 3pm | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-10.3 3pm finish | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
 | Wolverine | C++ Software Engineer | 2026.9.21 | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| Solayer Labs Inc | Backend Engineer - Trading Infrastructure (New Grad) | 2026.10.4 | Palo Alto, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11286691) |
+| Nimble Robotics | Software Engineer II, Cloud Logistics | 2026.10.4 | San Francisco, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11438647) |
+| Noon AI | Software Engineer | 2026.10.4 | New York, NY (onsite) | - | [link](https://app.joinhandshake.com/jobs/11407559) |
+| Sunwest Bank | Technology Analyst Program (Track 2: Software Engineering Analyst) | 2026.10.4 | Sandy, UT (onsite) | - | [link](https://app.joinhandshake.com/jobs/11516686) |
+| NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | 2026.10.4 | Mountain View, CA | - | [link](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
+| Varsity Brands | Software Engineer I (.Net) (JR114518) | 2026.10.4 | Memphis, TN | - | [link](https://careers.varsitybrands.com/global/en/job/JR114518) |
 
 ## Applications
 
 | No. | Company | Applied Date | Status | Position | OA | VO | Link |
 |---:|---|---:|---|---|---|---|---|
 | 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-10.3 3pm | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-10.3 3pm finish | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
 | 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | 4 | State Street | 2026.9.21 | applied | Software Engineer - REST API Development | - | - | [link](https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer) |
@@ -160,388 +166,67 @@ Updated: 2026-10-03
 | 133 | ZipRecruiter | 2026.10.2 | applied | Software Engineer - New Grad | - | - | [link](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) |
 | 134 | Parallel Systems | 2026.10.2 | applied | Full Stack Software Engineer I | - | - | [link](https://job-boards.greenhouse.io/parallel/jobs/524780007) |
 | 135 | robinhood | 2026.10.2 | applied | Software Engineer | - | - | [link](https://job-boards.greenhouse.io/robinhood/jobs/7263592/confirmation?gh_src=ed898e781us) |
-| 141 | Quora | 2026.10.2 | applied | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | - | - | [link](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application) |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| 142 | Hedge | 2026.10.1 | applied | Founding Engineer - Hedge (YC P26) | - | - | [link](https://illinois.joinhandshake.com/job-search/11500211) |
 | 136 | Noon AI | 2026.10.1 | applied | Software Engineer (New Grad) | - | - | [link](https://illinois.joinhandshake.com/job-search/11541235) |
 | 137 | TradingBlock | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11496532) |
 | 138 | Commvault Systems | 2026.10.1 | applied | Software Engineer | - | - | [link](https://illinois.joinhandshake.com/job-search/11538113) |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
 | 139 | EvenUp | 2026.10.1 | applied | Software Engineer (New Grad), AI Entities | - | - | [link](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application) |
 | 140 | Citadel Securities | 2026.9.30 | applied | Software Engineer – University Graduate (US) | - | - | [link](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
+| 141 | Quora | 2026.10.2 | applied | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | - | - | [link](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application) |
+| 142 | LinkedIn | 2026.10.3 | applied | AI Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4474328944/) |
+| 143 | Amperos | 2026.10.3 | applied | Software Engineer, Fullstack | - | - | [link](https://www.linkedin.com/jobs/view/4472857620/) |
+| 144 | Trilogy NextGen | 2026.10.3 | applied | Junior Java / AI Developer – Spring Boot, LLM & Copilot | - | - | [link](https://www.linkedin.com/jobs/view/4473163101/) |
+| 145 | Numeral | 2026.10.3 | applied | Software Engineer, Growth | - | - | [link](https://jobs.ashbyhq.com/numeral/4019093f-a90b-476a-82af-c8a2bcf289d1/application) |
+| 146 | Teleskope | 2026.10.3 | applied | Software Engineer | - | - | [link](https://www.teleskope.ai/company/careers?ashby_jid=f96084cd-766a-4791-95e4-2f4ffbadacc0) |
+| 147 | Texas Sports Academy | 2026.10.3 | applied | Junior AI Software Engineer | - | - | - |
+| 149 | Danaher | 2026.10.3 | applied | Engineer, Desktop Software | - | - | [link](https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349/apply) |
+| 148 | Hedge | 2026.10.3 | applied | Founding Engineer - Hedge (YC P26) | - | - | [link](https://illinois.joinhandshake.com/job-search/11500211) |
+| 150 | Harvey | 2026.10.3 | applied | Software Engineer, New Grad (2027) | - | - | [link](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application) |
+| 151 | Parasail | 2026.10.3 | applied | Software Engineer, Forward Deploy -- New Graduate '27 | - | - | [link](https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application) |
+| 152 | ServiceNow | 2026.10.3 | applied | Software Engineer, Core Infrastructure - Moveworks (New Grad) | - | - | [link](https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-) |
+| 153 | Study.com | 2026.10.3 | applied | Associate Software Engineer (New Grad) | - | - | [link](https://study.com/pages/jobApplication.html?gh_jid=5429313008) |
+| 154 | Confido | 2026.10.3 | applied | New Grad Software Engineer | - | - | [link](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e) |
+| 155 | Together AI | 2026.10.3 | applied | Software Engineer, New Grad (2027) | - | - | [link](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
+| 156 | OppFi | 2026.10.3 | applied | Software Engineer I | - | - | [link](https://job-boards.greenhouse.io/opploans/jobs/8011770003) |
+| 157 | vastai | 2026.10.3 | applied | C++ Software Engineer | - | - | [link](https://jobs.ashbyhq.com/vastai/8e4aad45-d579-417a-b473-a343527766e3) |
+| 158 | 4G Clinical | 2026.10.3 | applied | Full Stack Software Engineer - (On Site) | - | - | [link](https://careers.4gclinical.com/) |
+| 159 | altara | 2026.10.3 | applied | Forward Deployed Engineer | - | - | [link](https://jobs.gem.com/altara/am9icG9zdDrxzkFRhhDT-cwvjk2PFyir) |
+| 161 | pinterest | 2026.10.3 | applied | University Grad Software Engineer 2027 (USA) | - | - | [link](https://www.pinterestcareers.com/jobs/7838591/university-grad-software-engineer-2027-usa/?gh_jid=7838591) |
+| 162 | Cerebras Systems | 2026.10.3 | applied | AI Inference Core, Software Integration Engineer | - | - | [link](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application) |
+| 185 | Max Tech | 2026.10.4 | applied | Software Engineer | - | - | [link](https://app.joinhandshake.com/jobs/11267071) |
+| 186 | Scientech Research LLC | 2026.10.4 | applied | Junior Software Engineer | - | - | [link](https://jobs.ashbyhq.com/scientech-research/40bfdae5-2f60-4760-974e-eb469618cf8a) |
+| 187 | Verkada | 2026.10.4 | applied | Software Engineer - Data Platform | - | - | [link](https://www.linkedin.com/jobs/view/4450384807/) |
+| 188 | CVector | 2026.10.4 | applied | Full Stack Software Engineer I or II | - | - | [link](https://www.linkedin.com/jobs/view/4416404536/) |
+| 189 | Akuna Capital | 2026.10.4 | applied | Software Engineer (Entry-Level) - Python | - | - | [link](https://akunacapital.com/careers/job/8013230/software-engineer-entry-level---python/?gh_jid=8013230) |
+| 190 | Garmin | 2026.10.4 | applied | Software Engineer 1 (Android) | - | - | [link](https://careers.garmin.com/jobs/16587?icims=1) |
+| 191 | Chime | 2026.10.4 | applied | Full-Stack Engineer, Human Agent Tooling | - | - | [link](https://job-boards.greenhouse.io/chime/jobs/8606649002) |
+| 192 | Old Mission | 2026.10.4 | applied | Software Engineer - 2027 Graduate Program (August Start) | - | - | [link](https://app.joinhandshake.com/jobs/11203060) |
+| 193 | SingleStore | 2026.10.4 | applied | Software Engineer New Grad - Helios | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8220882) |
+| 194 | eMeasurematics Inc | 2026.10.4 | applied | Software Development Engineer | - | - | [link](https://app.joinhandshake.com/jobs/11577428) |
+| 195 | Dynamics, Inc. | 2026.10.4 | applied | In-House Junior C# Software Engineer | - | - | [link](https://app.joinhandshake.com/jobs/11231964) |
+| 196 | Squoosh.AI | 2026.10.4 | applied | Software Engineer - AI Coding Tools | - | - | [link](https://app.joinhandshake.com/jobs/11397750) |
+| 197 | Gray Swan | 2026.10.4 | applied | Software Engineer | - | - | [link](https://www.grayswan.ai/careers?ashby_jid=2edf0f4c-d356-41da-a7b8-9b54e95f140c) |
+| 198 | Iris Software Inc. | 2026.10.4 | applied | Python Full Stack Developer | - | - | [link](https://www.linkedin.com/jobs/view/4472553925/?trackingId=E7iWZx7YTLWmevAcZ2DebQ%3D%3D) |
+| 199 | Tundra Technical Solutions | 2026.10.4 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4473386370/?trackingId=jV9aazwPSEmb5AUG3faFiQ%3D%3D) |
+| 200 | Evo Tech LLC | 2026.10.4 | applied | Full Stack Developer (Early Career / New Grad) | - | - | [link](https://app.joinhandshake.com/jobs/11459638) |
+| 201 | Evo Tech LLC | 2026.10.4 | applied | AI/ML Developer (Early Career / New Grad) | - | - | [link](https://app.joinhandshake.com/jobs/11459630) |
+| 202 | Matroid | 2026.10.4 | applied | VLM & VFM Forward Deployed Engineer | - | - | [link](https://app.joinhandshake.com/jobs/11451396) |
+| 203 | SingleStore | 2026.10.4 | applied | Software Engineer-Engine-New Grad 2027 | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8205427) |
+| 204 | Solayer Labs Inc | 2026.10.4 | applied | Backend Engineer - Trading Infrastructure (New Grad) | Palo Alto, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11286691) |
+| 205 | Nimble Robotics | 2026.10.4 | applied | Software Engineer II, Cloud Logistics | San Francisco, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11438647) |
+| 206 | Noon AI | 2026.10.4 | applied | Software Engineer | New York, NY (onsite) | - | [link](https://app.joinhandshake.com/jobs/11407559) |
+| 207 | Sunwest Bank | 2026.10.4 | applied | Technology Analyst Program (Track 2: Software Engineering Analyst) | Sandy, UT (onsite) | - | [link](https://app.joinhandshake.com/jobs/11516686) |
+| 208 | Menlo Research | 2026.10.4 | applied | Deployment Engineer | - | - | [link](https://jobs.ashbyhq.com/menlo/779da0a0-0d2d-45b5-866b-fa9b0714a91a) |
+| 208 | NewsBreak | 2026.10.4 | applied | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA | - | [link](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
+| 209 | Varsity Brands | 2026.10.4 | applied | Software Engineer I (.Net) (JR114518) | Memphis, TN | - | [link](https://careers.varsitybrands.com/global/en/job/JR114518) |
 
 ## Daily Count
 
 | Date | Count |
 |---:|---:|
-| - | 367 |
-| 2026.10.1 | 15 |
+| 2026.10.1 | 14 |
 | 2026.10.2 | 19 |
+| 2026.10.3 | 20 |
+| 2026.10.4 | 26 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
