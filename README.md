@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-05
+Updated: 2026-10-06
 
 ## Summary
 
-- Total postings: 188
-- Status: applied: 188
-- OA missing / not recorded: 178
-- VO missing / not recorded: 185
+- Total postings: 210
+- Status: applied: 210
+- OA missing / not recorded: 187
+- VO missing / not recorded: 202
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -16,7 +16,7 @@ Updated: 2026-10-05
 | Company | Position | Applied Date | OA | VO | Link |
 |---|---|---:|---|---|---|
 | bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | 收到-karat-10.3 3pm finish | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | karat 面->HR 面 10.06 | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
 | Wolverine | C++ Software Engineer | 2026.9.21 | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | Solayer Labs Inc | Backend Engineer - Trading Infrastructure (New Grad) | 2026.10.4 | Palo Alto, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11286691) |
@@ -25,13 +25,26 @@ Updated: 2026-10-05
 | Sunwest Bank | Technology Analyst Program (Track 2: Software Engineering Analyst) | 2026.10.4 | Sandy, UT (onsite) | - | [link](https://app.joinhandshake.com/jobs/11516686) |
 | NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | 2026.10.4 | Mountain View, CA | - | [link](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | Varsity Brands | Software Engineer I (.Net) (JR114518) | 2026.10.4 | Memphis, TN | - | [link](https://careers.varsitybrands.com/global/en/job/JR114518) |
+| IXL Learning | Software Engineer, New Grad | 2026.10.5 | San Mateo, CA (HQ in-person) | - | [link](https://www.ixl.com/company/jobs?gh_jid=8765715002) |
+| Hyphenate | Software Engineer (New Grad) | 2026.10.5 | New York City, NY (on-site) | - | [link](https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e) |
+| Twitch | Software Engineer I, Payments | 2026.10.5 | San Francisco, CA | - | [link](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
+| Replit | Software Engineer - New Grad (2027) | 2026.10.5 | Foster City, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) |
+| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | 2026.10.5 | San Francisco, CA (on-site) | - | [link](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
+| Anysphere (Cursor) | Software Engineer, New Grad 2027 | 2026.10.5 | SF/NYC | - | [link](https://cursor.com/careers/software-engineer-new-grad-2027) |
+| Intramotev | Associate Software Engineer | 2026.10.5 | St. Louis, MO (on-site) | - | [link](https://careers.kula.ai/intramotev/54597-associate-software-engineer) |
+| Vagaro | Software Engineer | 2026.10.5 | Pleasanton, CA (on-site) | - | [link](https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer) |
+| College Board | Software Engineer I (New Grad - February 2027 Start) | 2026.10.5 | Remote | $100-120K | [link](https://app.joinhandshake.com/jobs/11598682) |
+| Squoosh.AI | Full Stack Software Engineer | 2026.10.5 | Remote | $90-150K | [link](https://app.joinhandshake.com/jobs/11398096) |
+| Squoosh.AI | AI Researcher | 2026.10.5 | Remote (US) | $120-140K | [link](https://app.joinhandshake.com/jobs/11397752) |
+| Prompt Driven | AI Engineer | 2026.10.5 | Palo Alto, CA (onsite) | $60-100K | [link](https://app.joinhandshake.com/jobs/10404616) |
+| Wanderboat AI | Backend/AI Engineer | 2026.10.5 | Sunnyvale, CA (onsite) | $120-180K | [link](https://app.joinhandshake.com/jobs/11237257) |
 
 ## Applications
 
 | No. | Company | Applied Date | Status | Position | OA | VO | Link |
 |---:|---|---:|---|---|---|---|---|
 | 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | 收到-karat-10.3 3pm finish | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | karat 面->HR 面 10.06 | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
 | 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | 4 | State Street | 2026.9.21 | applied | Software Engineer - REST API Development | - | - | [link](https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer) |
@@ -215,9 +228,31 @@ Updated: 2026-10-05
 | 205 | Nimble Robotics | 2026.10.4 | applied | Software Engineer II, Cloud Logistics | San Francisco, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11438647) |
 | 206 | Noon AI | 2026.10.4 | applied | Software Engineer | New York, NY (onsite) | - | [link](https://app.joinhandshake.com/jobs/11407559) |
 | 207 | Sunwest Bank | 2026.10.4 | applied | Technology Analyst Program (Track 2: Software Engineering Analyst) | Sandy, UT (onsite) | - | [link](https://app.joinhandshake.com/jobs/11516686) |
-| 208 | Menlo Research | 2026.10.4 | applied | Deployment Engineer | - | - | [link](https://jobs.ashbyhq.com/menlo/779da0a0-0d2d-45b5-866b-fa9b0714a91a) |
+| 210 | Menlo Research | 2026.10.4 | applied | Deployment Engineer | - | - | [link](https://jobs.ashbyhq.com/menlo/779da0a0-0d2d-45b5-866b-fa9b0714a91a) |
 | 208 | NewsBreak | 2026.10.4 | applied | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA | - | [link](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | 209 | Varsity Brands | 2026.10.4 | applied | Software Engineer I (.Net) (JR114518) | Memphis, TN | - | [link](https://careers.varsitybrands.com/global/en/job/JR114518) |
+| 210 | spotify | 2026.10.5 | applied | Backend Engineer | - | - | [link](https://jobs.lever.co/spotify/65d6caca-6d7c-4049-8256-a128e0e7249e/thanks) |
+| 211 | SwiftGov | 2026.10.5 | applied | Applied AI Engineer | - | - | [link](https://www.linkedin.com/jobs/search-results/?currentJobId=4475811388&eBP=CwEAAAGhDJ9RnVv1WJ8v9fUpInuRiop_Nh9CwIpuCHi_BHSVK_qWAhbtYqILl1bv-OnN3henqESpWRxGhuVGNZNyfh0hsHNnV7VhiqdRe7ODQmCsCv_5sypH_2EONFPMJvDY5U9cxH-oDKzW9LJXQ6UUFLD-H3FE5zt0ECM8RLK9812FdnMrguIul3_mhPLlkRTvTiLlP5iXCfPvTis2dQv0O8dF33EUFuxMSUBsek7ujwnnuCNmRQJivdaXHwe2JCt2W0M-PX_e5mcFQe4CQZN_EfSq7kKQ7MmT6gGMj4Zq9xuX2qCFyf6rGnv9Xf1AZVSUPpw0ArNRVaizYx2fRPFbPHAW7ZGxyqyRkY3MFO9F9_OF1MkiTr-aKwkRymPr8jQzq0OBoee4YrNTgyM-LmaY3oQyoR8-NvTv602sjU22qYVyboqvwVgLuPMaUm0I3qQhhyPgysMQzxZ25UwD9ZZaNZrhmsI&refId=x46tDLoqf1mXL3OLaiQchg%3D%3D&trackingId=ilCbw8uLMm8jiWZckKMn9A%3D%3D&keywords=software%20engineer%20new%20grad&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=TXRxp87ppY4GkRTY51GByw%3D%3D&f_TPR=r86400&f_SAL=f_SA_id_227001%3A276001) |
+| 212 | Confido | 2026.10.5 | applied | New Grad Software Engineer | - | - | [link](https://www.workatastartup.com/jobs/93171) |
+| 213 | BlueCargo | 2026.10.5 | applied | AI Engineer | - | - | [link](https://www.workatastartup.com/jobs/113110) |
+| 214 | ladders | 2026.10.5 | applied | University Grad Software Engineer 2027 (USA) | - | - | [link](https://www.theladders.com/linkedin/89168934?src=LinkedIn) |
+| 215 | TRM Labs | 2026.10.5 | applied | University Grad – Product Engineer (2026-2027) - Los Angeles or San Francisco | - | - | [link](https://www.trmlabs.com/careers?ashby_jid=0b8546c0-39ba-44db-aba5-3425bcb2e68d&utm_source=LinkedInPaid) |
+| 216 | Quora | 2026.10.5 | applied | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | - | - | [link](https://www.talenthop.com/apply-with-ai/da62cc3e-5001-4b42-a90c-9ec70289571a?utm_medium=job_posting&utm_source=linkedin&utm_campaign=software_engineer&utm_category=software_engineer&utm_term=software_engineer_new_grad_machine_learning_platform_quora_remote) |
+| 217 | ServiceNow | 2026.10.5 | applied | Software Engineer New Grad | - | - | [link](https://jobs.smartrecruiters.com/oneclick-ui/company/ServiceNow/publication/9e72b071-997f-495b-a519-cff2cb8c891e?dcr_ci=ServiceNow&sid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |
+| 218 | intuit | 2026.10.5 | applied | Software Engineer New Grad | - | - | [link](https://intuit.avature.net/en_US/externalCareers/JobApplication?pipelineId=14930&utm_medium=jobad&utm_content=pj_board&utm_source=linkedin%20slots%20%28intuit%29&cid=pjob_li_click_us_swe-other-fy27_cn_text_job_int-tm&p_sid=nYDXj0b&p_uid=MoIPqk9mC3&ss=paid&utm_campaign=&utm_source=linkedin%2Bslots%2B(intuit)) |
+| 219 | IXL Learning | 2026.10.5 | applied | Software Engineer, New Grad | San Mateo, CA (HQ in-person) | - | [link](https://www.ixl.com/company/jobs?gh_jid=8765715002) |
+| 220 | Hyphenate | 2026.10.5 | applied | Software Engineer (New Grad) | New York City, NY (on-site) | - | [link](https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e) |
+| 221 | Twitch | 2026.10.5 | applied | Software Engineer I, Payments | San Francisco, CA | - | [link](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
+| 222 | Replit | 2026.10.5 | applied | Software Engineer - New Grad (2027) | Foster City, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) |
+| 223 | Netic | 2026.10.5 | applied | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | San Francisco, CA (on-site) | - | [link](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
+| 224 | Anysphere (Cursor) | 2026.10.5 | applied | Software Engineer, New Grad 2027 | SF/NYC | - | [link](https://cursor.com/careers/software-engineer-new-grad-2027) |
+| 225 | Intramotev | 2026.10.5 | applied | Associate Software Engineer | St. Louis, MO (on-site) | - | [link](https://careers.kula.ai/intramotev/54597-associate-software-engineer) |
+| 226 | Vagaro | 2026.10.5 | applied | Software Engineer | Pleasanton, CA (on-site) | - | [link](https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer) |
+| 227 | College Board | 2026.10.5 | applied | Software Engineer I (New Grad - February 2027 Start) | Remote | $100-120K | [link](https://app.joinhandshake.com/jobs/11598682) |
+| 228 | Squoosh.AI | 2026.10.5 | applied | Full Stack Software Engineer | Remote | $90-150K | [link](https://app.joinhandshake.com/jobs/11398096) |
+| 229 | Squoosh.AI | 2026.10.5 | applied | AI Researcher | Remote (US) | $120-140K | [link](https://app.joinhandshake.com/jobs/11397752) |
+| 230 | Prompt Driven | 2026.10.5 | applied | AI Engineer | Palo Alto, CA (onsite) | $60-100K | [link](https://app.joinhandshake.com/jobs/10404616) |
+| 231 | Wanderboat AI | 2026.10.5 | applied | Backend/AI Engineer | Sunnyvale, CA (onsite) | $120-180K | [link](https://app.joinhandshake.com/jobs/11237257) |
 
 ## Daily Count
 
@@ -227,6 +262,7 @@ Updated: 2026-10-05
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
 | 2026.10.4 | 26 |
+| 2026.10.5 | 22 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
