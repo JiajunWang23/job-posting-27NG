@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-07
+Updated: 2026-10-08
 
 ## Summary
 
 - Total postings: 397
-- Status: applied: 227, blank: 168, rejected: 2
-- OA missing / not recorded: 366
-- VO missing / not recorded: 385
+- Status: applied: 248, blank: 147, rejected: 2
+- OA missing / not recorded: 351
+- VO missing / not recorded: 372
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -19,6 +19,8 @@ Updated: 2026-10-07
 | Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | karat 面->HR 面 10.06->Coding等安排时间 | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
 | Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
 | Wolverine | C++ Software Engineer | 2026.9.21 | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| ASM | Engineer, Field Service- Early Career | 2026.9.21 | 无笔试直接面试 | 一面正在约 | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
+| NVIDIA | JR2007081 System Software Engineer | 2026.9.27 | 无笔试直接面试 | 正在约一面 | [link](https://jobs.nvidia.com/careers/job/893397112877) |
 | Solayer Labs Inc | Backend Engineer - Trading Infrastructure (New Grad) | 2026.10.4 | Palo Alto, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11286691) |
 | Nimble Robotics | Software Engineer II, Cloud Logistics | 2026.10.4 | San Francisco, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11438647) |
 | Noon AI | Software Engineer | 2026.10.4 | New York, NY (onsite) | - | [link](https://app.joinhandshake.com/jobs/11407559) |
@@ -46,6 +48,19 @@ Updated: 2026-10-07
 | LangChain | Deployed Engineer (Early Career) | 2026.10.6 | New York, NY (on-site) | - | [link](https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134) |
 | Foundation Health | Software Engineer | 2026.10.6 | Orlando, FL (hybrid) | - | [link](https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1) |
 | SingleStore | Software Engineer-Helios-New Grad 2027 | 2026.10.6 | United States (Remote) | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8205389) |
+| Julius AI | Software Engineer - Product (New Grad) | 2026.10.7 | San Francisco, CA | $130-150K | [link](https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6) |
+| Wonderschool | Early Career Software Engineer - Applied AI | 2026.10.7 | San Francisco, CA | $100-120K | [link](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003) |
+| Ellipsis Labs | Software Engineer - 2027 New Grads | 2026.10.7 | New York, NY (hybrid) | $150-200K+equity | [link](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) |
+| N1 | New Grad Software Engineer (Backend Rust) | 2026.10.7 | NYC/Remote/SF | $120-260K | [link](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
+| Automat | Software Engineer (Junior/Intermediate) | 2026.10.7 | San Francisco, CA (on-site) | $150-200K+equity | [link](https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137) |
+| Uare.ai | Software Engineer (Early Career) | 2026.10.7 | Los Altos, CA | $100-150K | [link](https://job-boards.greenhouse.io/uareai/jobs/4036519009) |
+| Affirm | Software Engineer, Early Career (NYC) | 2026.10.7 | New York, NY | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| Affirm | Software Engineer, Early Career (SF) | 2026.10.7 | San Francisco, CA | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| Notion | Software Engineer, New Grad (Dec 2026) | 2026.10.7 | San Francisco, CA (hybrid) | $160-197K | [link](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
+| Highlight AI | Early Career Product Engineer | 2026.10.7 | San Francisco, CA (on-site) | $150-230K | [link](https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb/application) |
+| Koah | Software Engineer, Early Career | 2026.10.7 | San Francisco, CA (on-site) | $120-160K | [link](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application) |
+| Meow | Software Engineer - December 2026 Graduates | 2026.10.7 | New York, NY (on-site) | - | [link](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application) |
+| SimpliSafe | Software Engineer I - User Systems | 2026.10.7 | Boston, MA | - | [link](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
 
 ## Applications
 
@@ -59,7 +74,7 @@ Updated: 2026-10-07
 | 5 | SingleStore | 2026.9.21 | applied | Software Engineer New Grad - Engine | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify) |
 | 6 | Toyota | 2026.9.21 | applied | Software Engineer | - | - | [link](https://careers.toyota.com/us/en/job/10328391/Software-Engineer) |
 | 7 | DoorDash | 2026.9.21 | applied | Software Engineer I, Entry-Level | - | - | [link](https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027---us/8163709/) |
-| 8 | ASM | 2026.9.21 | applied | Engineer, Field Service- Early Career | - | - | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
+| 8 | ASM | 2026.9.21 | applied | Engineer, Field Service- Early Career | 无笔试直接面试 | 一面正在约 | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
 | 9 | Wealth.com | 2026.9.21 | applied | Associate Software Engineer | - | - | [link](https://jobs.ashbyhq.com/wealth-com/30842daf-a487-4d21-abbc-452acb72518b/application?utm_source=wNMRV2noy8&src=LinkedIn) |
 | 10 | Coram AI | 2026.9.21 | applied | Graduate Software Engineer | - | - | [link](https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3) |
 | 11 | Epitec | 2026.9.21 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/search-results/?currentJobId=4467392993&trk=d_flagship3_company&refId=CL6C5lEG7XF9UNodn8DpfA%3D%3D&trackingId=AUldIRLxKhsDCBEdWIfh%2Fg%3D%3D&keywords=jobs&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4467392993%2C4467677493%2C4460292107%2C4470621158%2C4470624019%2C4470614590%2C4468262403%2C4467607473%2C4469168732%2C4469204582&geoId=103644278&f_C=25461) |
@@ -109,7 +124,7 @@ Updated: 2026-10-07
 | 59 | DoorDash（refer） | 2026.9.27 | applied | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | - | - | [link](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?gh_src=8o9kpzmb1us#app) |
 | 60 | Iterable | 2026.9.27 | applied | Technical Support Engineer - Deliverability | - | - | [link](https://job-boards.greenhouse.io/iterable/jobs/8165080) |
 | 61 | Rippling | 2026.9.27 | applied | Software Engineer II, Backend - Financial Product | - | - | [link](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) |
-| 62 | NVIDIA | 2026.9.27 | applied | JR2007081 System Software Engineer | - | - | [link](https://jobs.nvidia.com/careers/job/893397112877) |
+| 62 | NVIDIA | 2026.9.27 | applied | JR2007081 System Software Engineer | 无笔试直接面试 | 正在约一面 | [link](https://jobs.nvidia.com/careers/job/893397112877) |
 | 63 | LexisNexis® Risk Solutions | 2026.9.28 | applied | Tech Accelarate Graduate Program | - | - | [link](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Tech-Accelarate-Graduate-Program_R118810) |
 | 64 | Stripe | 2026.9.28 | applied | Software Engineer, New Grad | - | - | [link](https://www.linkedin.com/in/jiajun-w-814867365/) |
 | 65 | Replit | 2026.9.28 | applied | GH Software Engineer - New Grad (2027) | - | - | [link](https://jobs.ashbyhq.com/replit/3abc70dc-5a60-4eb1-bff0-121fe87a8e53/application) |
@@ -280,27 +295,27 @@ Updated: 2026-10-07
 | 248 | Turbo AI | 2026.10.6 | applied | Full Stack Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4470029697) |
 | 249 | Citadel Securities | 2026.10.6 | applied | SWE | - | - | [link](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/?jr_id=6a8878be25fc4e7ae3db087d) |
 | 250 | insforgo | 2026.10.6 | applied | SWE | - | - | [link](https://insforge.dev/careers/founding-infrastructure-engineer?utm_source=linkedin&utm_medium=social&utm_campaign=hiring-engineers-who-want-both-infrastructure-and-startups#apply) |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
+| 264 | Julius AI | 2026.10.7 | applied | Software Engineer - Product (New Grad) | San Francisco, CA | $130-150K | [link](https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6) |
+| 265 | Wonderschool | 2026.10.7 | applied | Early Career Software Engineer - Applied AI | San Francisco, CA | $100-120K | [link](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003) |
+| 266 | Ellipsis Labs | 2026.10.7 | applied | Software Engineer - 2027 New Grads | New York, NY (hybrid) | $150-200K+equity | [link](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) |
+| 267 | N1 | 2026.10.7 | applied | New Grad Software Engineer (Backend Rust) | NYC/Remote/SF | $120-260K | [link](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
+| 268 | Automat | 2026.10.7 | applied | Software Engineer (Junior/Intermediate) | San Francisco, CA (on-site) | $150-200K+equity | [link](https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137) |
+| 269 | Uare.ai | 2026.10.7 | applied | Software Engineer (Early Career) | Los Altos, CA | $100-150K | [link](https://job-boards.greenhouse.io/uareai/jobs/4036519009) |
+| 270 | Pure Storage | 2026.10.7 | applied | Software Engineer Grad 2027 | - | - | - |
+| 271 | Faros AI | 2026.10.7 | applied | SWE New Grad | - | - | - |
+| 272 | Radiant Industries | 2026.10.7 | applied | 2027 New Grad SWE | - | - | - |
+| 273 | Hipp Health | 2026.10.7 | applied | SWE New Grad | - | - | - |
+| 274 | Firetiger | 2026.10.7 | applied | Product Engineer New Grad | - | - | - |
+| 275 | Nooks | 2026.10.7 | applied | SWE New Grad | - | - | - |
+| 276 | Bridger | 2026.10.7 | applied | Early Career Product Engineer | - | - | - |
+| 277 | Affirm | 2026.10.7 | applied | Software Engineer, Early Career (NYC) | New York, NY | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| 278 | Affirm | 2026.10.7 | applied | Software Engineer, Early Career (SF) | San Francisco, CA | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| 279 | Notion | 2026.10.7 | applied | Software Engineer, New Grad (Dec 2026) | San Francisco, CA (hybrid) | $160-197K | [link](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
+| 280 | Highlight AI | 2026.10.7 | applied | Early Career Product Engineer | San Francisco, CA (on-site) | $150-230K | [link](https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb/application) |
+| 281 | Koah | 2026.10.7 | applied | Software Engineer, Early Career | San Francisco, CA (on-site) | $120-160K | [link](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application) |
+| 282 | Meow | 2026.10.7 | applied | Software Engineer - December 2026 Graduates | New York, NY (on-site) | - | [link](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application) |
+| 283 | SimpliSafe | 2026.10.7 | applied | Software Engineer I - User Systems | Boston, MA | - | [link](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
+| 284 | intersystem | 2026.10.7 | applied | SWE New Grad | - | - | [link](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - |
@@ -453,13 +468,14 @@ Updated: 2026-10-07
 
 | Date | Count |
 |---:|---:|
-| - | 168 |
+| - | 147 |
 | 2026.10.1 | 14 |
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
 | 2026.10.4 | 26 |
 | 2026.10.5 | 21 |
 | 2026.10.6 | 24 |
+| 2026.10.7 | 21 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
