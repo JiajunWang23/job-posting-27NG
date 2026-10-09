@@ -1,26 +1,20 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-08
+Updated: 2026-10-09
 
 ## Summary
 
-- Total postings: 397
-- Status: applied: 248, blank: 147, rejected: 2
-- OA missing / not recorded: 351
-- VO missing / not recorded: 372
+- Total postings: 288
+- Status: applied: 285, rejected: 3
+- OA missing / not recorded: 221
+- VO missing / not recorded: 266
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
 
 | Company | Position | Applied Date | OA | VO | Link |
 |---|---|---:|---|---|---|
-| bytedance | Software Engineer - AI Agent Infra​ | 2026.8.24 | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| Whatnot | Software Engineer, 2027 New Grad | 2026.9.02 | 无笔试 | karat 面->HR 面 10.06->Coding等安排时间 | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
-| Abridge | Software Engineer, Early Career | 2026.8.31 | 笔试完成 | 面完-挂 | - |
-| Wolverine | C++ Software Engineer | 2026.9.21 | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
-| ASM | Engineer, Field Service- Early Career | 2026.9.21 | 无笔试直接面试 | 一面正在约 | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
-| NVIDIA | JR2007081 System Software Engineer | 2026.9.27 | 无笔试直接面试 | 正在约一面 | [link](https://jobs.nvidia.com/careers/job/893397112877) |
 | Solayer Labs Inc | Backend Engineer - Trading Infrastructure (New Grad) | 2026.10.4 | Palo Alto, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11286691) |
 | Nimble Robotics | Software Engineer II, Cloud Logistics | 2026.10.4 | San Francisco, CA (onsite) | - | [link](https://app.joinhandshake.com/job-search/11438647) |
 | Noon AI | Software Engineer | 2026.10.4 | New York, NY (onsite) | - | [link](https://app.joinhandshake.com/jobs/11407559) |
@@ -61,20 +55,47 @@ Updated: 2026-10-08
 | Koah | Software Engineer, Early Career | 2026.10.7 | San Francisco, CA (on-site) | $120-160K | [link](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application) |
 | Meow | Software Engineer - December 2026 Graduates | 2026.10.7 | New York, NY (on-site) | - | [link](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application) |
 | SimpliSafe | Software Engineer I - User Systems | 2026.10.7 | Boston, MA | - | [link](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
+| AiPrise | Software Engineer I | 2026.10.8 | San Jose, CA (on-site) | $115-150K+equity | [link](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application) |
+| Rollout | Founding Software Engineer | 2026.10.8 | New York, NY (hybrid) | - | [link](https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application) |
+| Realm | Software Engineer - New Grad | 2026.10.8 | Remote (full-time) | - | [link](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application) |
+| Backbone Systems | Founding Engineer, Applied Research | 2026.10.8 | San Francisco, CA (on-site) | - | [link](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application) |
+| FlexAI | Software Engineer, New Grad | 2026.10.8 | San Jose, CA (on-site) | $100-150K | [link](https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674) |
+| WonderBotz | Junior Software Engineer | 2026.10.8 | Princeton, NJ (full-time) | - | [link](https://wonderbotz.applytojob.com/apply/confirm/RrI9QanYDY) |
+| Supernova Technology | Junior Software Engineer | 2026.10.8 | Chicago, IL | - | [link](https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502) |
+| Nurturebox | Graduate Software Engineer | 2026.10.8 | Remote, USA | - | [link](https://www.linkedin.com/jobs/view/4473608799/) |
+| GSBOA | Software Engineer | 2026.10.8 | New York City (on-site) | - | [link](https://www.linkedin.com/jobs/view/4474970976/) |
+| Sea12 | Forward Deployed Software Engineer | 2026.10.8 | New York, NY (on-site) | - | [link](https://www.linkedin.com/jobs/view/4410216537/) |
+| T2 Systems | Full Stack Developer | 2026.10.8 | Indianapolis, IN (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4466789240/) |
+| PANTHERx Rare Pharmacy | Software Engineer | 2026.10.8 | Robinson, PA (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475495224/) |
+| KYOCERA AVX | Software Engineer | 2026.10.8 | Erie, PA (on-site) | - | [link](https://www.linkedin.com/jobs/view/4473672147/) |
+| RoadRunner | Forward Deployed Engineer (New Grad) | 2026.10.8 | San Francisco, CA (in-person) | - | [link](https://jobs.ashbyhq.com/roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480) |
+| SpruceID | Full-Stack Software Engineer (New Grad) - Remote | 2026.10.8 | Remote, USA | - | [link](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e) |
+| Fireworks.ai | Member of Technical Staff, New Grad (BS/MS) | 2026.10.8 | San Mateo, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) |
+| KEPLER22 LLC | Junior Java Developer | 2026.10.8 | Dallas, TX (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4476207403) |
+| Divine Talent | Full Stack Developer - Entry Level | 2026.10.8 | Remote, USA | - | [link](https://www.linkedin.com/jobs/view/4475963648) |
+| Bethany Insurance Agency | Software Developer | 2026.10.8 | San Dimas, CA (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475100303) |
+| Emissary | Software Engineer | 2026.10.8 | San Francisco Bay Area (onsite) | - | [link](https://www.linkedin.com/jobs/view/4474680295) |
+| Kintaro Labs | Founding Engineer, Platform & Applied AI | 2026.10.8 | New York, NY (onsite) | - | [link](https://www.linkedin.com/jobs/view/4476537861) |
+| Carnegie Mellon University | Systems Software Engineer - Computing Services | 2026.10.8 | Pittsburgh, PA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4457111009) |
+| Tom Masano Auto Group | AI Automation Developer | 2026.10.8 | Reading, PA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4475339360) |
+| Earnie | Full Stack Engineer (AI-Native) | 2026.10.8 | Bloomfield Hills, MI (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475808822) |
+| Speakeasy | Full Stack Software Engineer | 2026.10.8 | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4467160138) |
+| Stealth Startup | Fullstack / AI Engineer (New Grads) | 2026.10.8 | San Francisco, CA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4463019979) |
+| D.E. Shaw | Software Developer | 2026.10.8 | New York, NY | - | [link](https://www.deshaw.com/careers/software-developer-2646) |
 
 ## Applications
 
 | No. | Company | Applied Date | Status | Position | OA | VO | Link |
 |---:|---|---:|---|---|---|---|---|
-| 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | 无笔试 | 面完一面挂 | [link](https://joinbytedance.com/search/7642279421516941573) |
-| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | 无笔试 | karat 面->HR 面 10.06->Coding等安排时间 | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
-| 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | 笔试完成 | 面完-挂 | - |
-| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | 笔试完成-挂 | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
+| 0 | bytedance | 2026.8.24 | applied | Software Engineer - AI Agent Infra​ | - | - | [link](https://joinbytedance.com/search/7642279421516941573) |
+| 1 | Whatnot | 2026.9.02 | applied | Software Engineer, 2027 New Grad | - | - | [link](https://www.whatnot.com/careers/roles/29bad846-de60-4be7-a222-69b97e044930?srsltid=AU7gw4VziGjWcixLSlezbF56gyLnV82yQ-QrKiwWb-3OrAqOC2EZAeCg) |
+| 2 | Abridge | 2026.8.31 | applied | Software Engineer, Early Career | - | - | - |
+| 3 | Wolverine | 2026.9.21 | applied | C++ Software Engineer | - | - | [link](https://careers.wolve.com/postings/856f5215-88c8-4c1b-bd47-5106b33ed37f) |
 | 4 | State Street | 2026.9.21 | applied | Software Engineer - REST API Development | - | - | [link](https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer) |
 | 5 | SingleStore | 2026.9.21 | applied | Software Engineer New Grad - Engine | - | - | [link](https://job-boards.greenhouse.io/singlestore/jobs/8220863?utm_source=Simplify&ref=Simplify) |
 | 6 | Toyota | 2026.9.21 | applied | Software Engineer | - | - | [link](https://careers.toyota.com/us/en/job/10328391/Software-Engineer) |
 | 7 | DoorDash | 2026.9.21 | applied | Software Engineer I, Entry-Level | - | - | [link](https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027---us/8163709/) |
-| 8 | ASM | 2026.9.21 | applied | Engineer, Field Service- Early Career | 无笔试直接面试 | 一面正在约 | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
+| 8 | ASM | 2026.9.21 | applied | Engineer, Field Service- Early Career | - | - | [link](https://www.asm.com/open-vacancies/engineer-field-service-early-career-4739225101?gh_jid=4739225101) |
 | 9 | Wealth.com | 2026.9.21 | applied | Associate Software Engineer | - | - | [link](https://jobs.ashbyhq.com/wealth-com/30842daf-a487-4d21-abbc-452acb72518b/application?utm_source=wNMRV2noy8&src=LinkedIn) |
 | 10 | Coram AI | 2026.9.21 | applied | Graduate Software Engineer | - | - | [link](https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3) |
 | 11 | Epitec | 2026.9.21 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/search-results/?currentJobId=4467392993&trk=d_flagship3_company&refId=CL6C5lEG7XF9UNodn8DpfA%3D%3D&trackingId=AUldIRLxKhsDCBEdWIfh%2Fg%3D%3D&keywords=jobs&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4467392993%2C4467677493%2C4460292107%2C4470621158%2C4470624019%2C4470614590%2C4468262403%2C4467607473%2C4469168732%2C4469204582&geoId=103644278&f_C=25461) |
@@ -124,7 +145,7 @@ Updated: 2026-10-08
 | 59 | DoorDash（refer） | 2026.9.27 | applied | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | - | - | [link](https://job-boards.greenhouse.io/doordashusa/jobs/8163709?gh_src=8o9kpzmb1us#app) |
 | 60 | Iterable | 2026.9.27 | applied | Technical Support Engineer - Deliverability | - | - | [link](https://job-boards.greenhouse.io/iterable/jobs/8165080) |
 | 61 | Rippling | 2026.9.27 | applied | Software Engineer II, Backend - Financial Product | - | - | [link](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) |
-| 62 | NVIDIA | 2026.9.27 | applied | JR2007081 System Software Engineer | 无笔试直接面试 | 正在约一面 | [link](https://jobs.nvidia.com/careers/job/893397112877) |
+| 62 | NVIDIA | 2026.9.27 | applied | JR2007081 System Software Engineer | - | - | [link](https://jobs.nvidia.com/careers/job/893397112877) |
 | 63 | LexisNexis® Risk Solutions | 2026.9.28 | applied | Tech Accelarate Graduate Program | - | - | [link](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Tech-Accelarate-Graduate-Program_R118810) |
 | 64 | Stripe | 2026.9.28 | applied | Software Engineer, New Grad | - | - | [link](https://www.linkedin.com/in/jiajun-w-814867365/) |
 | 65 | Replit | 2026.9.28 | applied | GH Software Engineer - New Grad (2027) | - | - | [link](https://jobs.ashbyhq.com/replit/3abc70dc-5a60-4eb1-bff0-121fe87a8e53/application) |
@@ -301,13 +322,13 @@ Updated: 2026-10-08
 | 267 | N1 | 2026.10.7 | applied | New Grad Software Engineer (Backend Rust) | NYC/Remote/SF | $120-260K | [link](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
 | 268 | Automat | 2026.10.7 | applied | Software Engineer (Junior/Intermediate) | San Francisco, CA (on-site) | $150-200K+equity | [link](https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137) |
 | 269 | Uare.ai | 2026.10.7 | applied | Software Engineer (Early Career) | Los Altos, CA | $100-150K | [link](https://job-boards.greenhouse.io/uareai/jobs/4036519009) |
-| 270 | Pure Storage | 2026.10.7 | applied | Software Engineer Grad 2027 | - | - | - |
-| 271 | Faros AI | 2026.10.7 | applied | SWE New Grad | - | - | - |
-| 272 | Radiant Industries | 2026.10.7 | applied | 2027 New Grad SWE | - | - | - |
-| 273 | Hipp Health | 2026.10.7 | applied | SWE New Grad | - | - | - |
-| 274 | Firetiger | 2026.10.7 | applied | Product Engineer New Grad | - | - | - |
-| 275 | Nooks | 2026.10.7 | applied | SWE New Grad | - | - | - |
-| 276 | Bridger | 2026.10.7 | applied | Early Career Product Engineer | - | - | - |
+| 270 | Pure Storage | 2026.10.7 | applied | Software Engineer Grad 2027 | - | - | [link](https://job-boards.greenhouse.io/purestorage/jobs/8249851) |
+| 271 | Faros AI | 2026.10.7 | applied | SWE New Grad | - | - | [link](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
+| 272 | Radiant Industries | 2026.10.7 | applied | 2027 New Grad SWE | - | - | [link](https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687) |
+| 273 | Hipp Health | 2026.10.7 | applied | SWE New Grad | - | - | [link](https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14) |
+| 274 | Firetiger | 2026.10.7 | applied | Product Engineer New Grad | - | - | [link](https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6) |
+| 275 | Nooks | 2026.10.7 | applied | SWE New Grad | - | - | [link](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) |
+| 276 | Bridger | 2026.10.7 | applied | Early Career Product Engineer | - | - | [link](https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f) |
 | 277 | Affirm | 2026.10.7 | applied | Software Engineer, Early Career (NYC) | New York, NY | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
 | 278 | Affirm | 2026.10.7 | applied | Software Engineer, Early Career (SF) | San Francisco, CA | $130-180K | [link](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
 | 279 | Notion | 2026.10.7 | applied | Software Engineer, New Grad (Dec 2026) | San Francisco, CA (hybrid) | $160-197K | [link](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
@@ -315,160 +336,50 @@ Updated: 2026-10-08
 | 281 | Koah | 2026.10.7 | applied | Software Engineer, Early Career | San Francisco, CA (on-site) | $120-160K | [link](https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application) |
 | 282 | Meow | 2026.10.7 | applied | Software Engineer - December 2026 Graduates | New York, NY (on-site) | - | [link](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application) |
 | 283 | SimpliSafe | 2026.10.7 | applied | Software Engineer I - User Systems | Boston, MA | - | [link](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
-| 284 | intersystem | 2026.10.7 | applied | SWE New Grad | - | - | [link](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - |
-| - | - | - | - | Software Engineer I, Network | - | - | [link](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) |
+| 284 | intersystem | 2026.10.7 | rejected | SWE New Grad | - | - | [link](https://job-boards.greenhouse.io/intersystems/jobs/7827894003) |
+| 292 | AiPrise | 2026.10.8 | applied | Software Engineer I | San Jose, CA (on-site) | $115-150K+equity | [link](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application) |
+| 293 | Rollout | 2026.10.8 | applied | Founding Software Engineer | New York, NY (hybrid) | - | [link](https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application) |
+| 294 | Realm | 2026.10.8 | applied | Software Engineer - New Grad | Remote (full-time) | - | [link](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application) |
+| 295 | Backbone Systems | 2026.10.8 | applied | Founding Engineer, Applied Research | San Francisco, CA (on-site) | - | [link](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application) |
+| 296 | FlexAI | 2026.10.8 | applied | Software Engineer, New Grad | San Jose, CA (on-site) | $100-150K | [link](https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674) |
+| 297 | WonderBotz | 2026.10.8 | applied | Junior Software Engineer | Princeton, NJ (full-time) | - | [link](https://wonderbotz.applytojob.com/apply/confirm/RrI9QanYDY) |
+| 300 | Supernova Technology | 2026.10.8 | applied | Junior Software Engineer | Chicago, IL | - | [link](https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502) |
+| 301 | Nurturebox | 2026.10.8 | applied | Graduate Software Engineer | Remote, USA | - | [link](https://www.linkedin.com/jobs/view/4473608799/) |
+| 302 | GSBOA | 2026.10.8 | applied | Software Engineer | New York City (on-site) | - | [link](https://www.linkedin.com/jobs/view/4474970976/) |
+| 303 | Sea12 | 2026.10.8 | applied | Forward Deployed Software Engineer | New York, NY (on-site) | - | [link](https://www.linkedin.com/jobs/view/4410216537/) |
+| 304 | T2 Systems | 2026.10.8 | applied | Full Stack Developer | Indianapolis, IN (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4466789240/) |
+| 305 | PANTHERx Rare Pharmacy | 2026.10.8 | applied | Software Engineer | Robinson, PA (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475495224/) |
+| 306 | KYOCERA AVX | 2026.10.8 | applied | Software Engineer | Erie, PA (on-site) | - | [link](https://www.linkedin.com/jobs/view/4473672147/) |
+| 307 | RoadRunner | 2026.10.8 | applied | Forward Deployed Engineer (New Grad) | San Francisco, CA (in-person) | - | [link](https://jobs.ashbyhq.com/roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480) |
+| 308 | Chalk | 2026.10.8 | applied | Software Engineer - New Grad | - | - | [link](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
+| 309 | Otter.ai | 2026.10.8 | applied | Software Engineer, Front-End New Grad | - | - | - |
+| 310 | SpruceID | 2026.10.8 | applied | Full-Stack Software Engineer (New Grad) - Remote | Remote, USA | - | [link](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e) |
+| 311 | Fireworks.ai | 2026.10.8 | applied | Member of Technical Staff, New Grad (BS/MS) | San Mateo, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) |
+| 312 | NCR Voyix Corporation | 2026.10.8 | applied | SW Engineer I | - | - | [link](https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/userHome) |
+| 313 | KEPLER22 LLC | 2026.10.8 | applied | Junior Java Developer | Dallas, TX (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4476207403) |
+| 314 | Divine Talent | 2026.10.8 | applied | Full Stack Developer - Entry Level | Remote, USA | - | [link](https://www.linkedin.com/jobs/view/4475963648) |
+| 315 | Bethany Insurance Agency | 2026.10.8 | applied | Software Developer | San Dimas, CA (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475100303) |
+| 316 | Emissary | 2026.10.8 | applied | Software Engineer | San Francisco Bay Area (onsite) | - | [link](https://www.linkedin.com/jobs/view/4474680295) |
+| 317 | Kintaro Labs | 2026.10.8 | applied | Founding Engineer, Platform & Applied AI | New York, NY (onsite) | - | [link](https://www.linkedin.com/jobs/view/4476537861) |
+| 318 | Carnegie Mellon University | 2026.10.8 | applied | Systems Software Engineer - Computing Services | Pittsburgh, PA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4457111009) |
+| 319 | Tom Masano Auto Group | 2026.10.8 | applied | AI Automation Developer | Reading, PA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4475339360) |
+| 320 | Earnie | 2026.10.8 | applied | Full Stack Engineer (AI-Native) | Bloomfield Hills, MI (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475808822) |
+| 321 | Speakeasy | 2026.10.8 | applied | Full Stack Software Engineer | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4467160138) |
+| 322 | Stealth Startup | 2026.10.8 | applied | Fullstack / AI Engineer (New Grads) | San Francisco, CA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4463019979) |
+| 323 | D.E. Shaw | 2026.10.8 | applied | Software Developer | New York, NY | - | [link](https://www.deshaw.com/careers/software-developer-2646) |
+| 324 | De Shaw | 2026.10.8 | applied | SWE | - | - | [link](https://apply.deshaw.com/application-success.html) |
+| 325 | Intersystem | 2026.10.8 | applied | Security Operations Analyst | - | - | [link](https://job-boards.greenhouse.io/intersystems/jobs/7730428003/confirmation?gh_src=anitab.org+job+board) |
+| 326 | IMC | 2026.10.8 | applied | SOFTWARE ENGINEER, EARLY CAREER | - | - | [link](https://www.imc.com/us/careers/jobs/4796143101?utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
+| 327 | auible | 2026.10.8 | applied | SOFTWARE ENGINEER, EARLY CAREER | - | - | [link](https://account.amazon.jobs/en-US/applicant/jobs/10560727/summary?result=success) |
+| 328 | Goldman Sachs | 2026.10.8 | applied | Global Banking & Markets - Transaction Banking - Channels Product API Analyst - Dallas | - | - | [link](https://higher.gs.com/roles/185198?utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
+| 329 | apple | 2026.10.8 | applied | Systems Software Engineer | - | - | [link](https://jobs.apple.com/en-us/details/200683808-3543/systems-software-engineer?team=HRDWR&utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
+| 330 | Supabase | 2026.10.8 | applied | Performance Engineer - Benchmarking | - | - | [link](https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b/application) |
+| 331 | Roadrunner | 2026.10.8 | applied | Forward Deployed Engineer (New Grad) | - | - | [link](https://www.linkedin.com/jobs/view/4476363669) |
 
 ## Daily Count
 
 | Date | Count |
 |---:|---:|
-| - | 147 |
 | 2026.10.1 | 14 |
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
@@ -476,6 +387,7 @@ Updated: 2026-10-08
 | 2026.10.5 | 21 |
 | 2026.10.6 | 24 |
 | 2026.10.7 | 21 |
+| 2026.10.8 | 38 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
