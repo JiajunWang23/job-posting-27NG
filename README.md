@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-09
+Updated: 2026-10-10
 
 ## Summary
 
-- Total postings: 288
-- Status: applied: 285, rejected: 3
-- OA missing / not recorded: 221
-- VO missing / not recorded: 266
+- Total postings: 301
+- Status: applied: 298, rejected: 3
+- OA missing / not recorded: 227
+- VO missing / not recorded: 279
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -82,6 +82,13 @@ Updated: 2026-10-09
 | Speakeasy | Full Stack Software Engineer | 2026.10.8 | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4467160138) |
 | Stealth Startup | Fullstack / AI Engineer (New Grads) | 2026.10.8 | San Francisco, CA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4463019979) |
 | D.E. Shaw | Software Developer | 2026.10.8 | New York, NY | - | [link](https://www.deshaw.com/careers/software-developer-2646) |
+| Pave Finance | Software Engineer 1 | 2026.10.09 | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475849056) |
+| Lucid Motors | Software Engineer, ADAS Behavior Planning and Integration | 2026.10.09 | Newark, CA | - | [link](https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007) |
+| Twilio | Software Engineer, Platform Access (L2) | 2026.10.09 | Remote, USA (IL eligible) | - | [link](https://job-boards.greenhouse.io/twilio/jobs/8026211) |
+| Point Digital Finance | Associate Software Engineer (IC1) | 2026.10.09 | San Francisco, CA (hybrid) | - | [link](https://point.com/careers/job/associate-software-engineer-8829278002) |
+| Valency Systems | Software Engineer (Full-stack) | 2026.10.09 | Berkeley, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff) |
+| Fleetio | Associate Software Engineer, Marketplace | 2026.10.09 | Remote, USA | - | [link](https://job-boards.greenhouse.io/fleetio/jobs/5213856007) |
+| Perpay | Super Day - Software Engineer, New Grad | 2026.10.09 | Philadelphia, PA (in-person event Nov 12) | - | [link](https://job-boards.greenhouse.io/perpay/jobs/5252881007) |
 
 ## Applications
 
@@ -367,7 +374,6 @@ Updated: 2026-10-09
 | 321 | Speakeasy | 2026.10.8 | applied | Full Stack Software Engineer | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4467160138) |
 | 322 | Stealth Startup | 2026.10.8 | applied | Fullstack / AI Engineer (New Grads) | San Francisco, CA (onsite) | - | [link](https://www.linkedin.com/jobs/view/4463019979) |
 | 323 | D.E. Shaw | 2026.10.8 | applied | Software Developer | New York, NY | - | [link](https://www.deshaw.com/careers/software-developer-2646) |
-| 324 | De Shaw | 2026.10.8 | applied | SWE | - | - | [link](https://apply.deshaw.com/application-success.html) |
 | 325 | Intersystem | 2026.10.8 | applied | Security Operations Analyst | - | - | [link](https://job-boards.greenhouse.io/intersystems/jobs/7730428003/confirmation?gh_src=anitab.org+job+board) |
 | 326 | IMC | 2026.10.8 | applied | SOFTWARE ENGINEER, EARLY CAREER | - | - | [link](https://www.imc.com/us/careers/jobs/4796143101?utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
 | 327 | auible | 2026.10.8 | applied | SOFTWARE ENGINEER, EARLY CAREER | - | - | [link](https://account.amazon.jobs/en-US/applicant/jobs/10560727/summary?result=success) |
@@ -375,11 +381,26 @@ Updated: 2026-10-09
 | 329 | apple | 2026.10.8 | applied | Systems Software Engineer | - | - | [link](https://jobs.apple.com/en-us/details/200683808-3543/systems-software-engineer?team=HRDWR&utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
 | 330 | Supabase | 2026.10.8 | applied | Performance Engineer - Benchmarking | - | - | [link](https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b/application) |
 | 331 | Roadrunner | 2026.10.8 | applied | Forward Deployed Engineer (New Grad) | - | - | [link](https://www.linkedin.com/jobs/view/4476363669) |
+| 332 | Harvey | 2026.10.09 | applied | Software Engineer, New Grad (2027) (NYC) | - | - | [link](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) |
+| 333 | Aurelian | 2026.10.09 | applied | Software Engineer (New Grad) (Seattle) | - | - | [link](https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e) |
+| 334 | Whoop | 2026.10.09 | applied | Software Engineer I (Frontend, AI Platform) (Boston) | - | - | [link](https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3) |
+| 335 | Bectran | 2026.10.09 | applied | Software Engineer (Schaumburg, IL) | - | - | [link](https://www.linkedin.com/jobs/view/4475823320) |
+| 336 | Brivo | 2026.10.09 | applied | Software Engineer – NEW GRAD (Bethesda, MD) | - | - | [link](https://careers.brivo.com/en/postings/57442dfd-ca22-4aa9-95d2-467d7affce11) |
+| 337 | Forge Nano | 2026.10.09 | applied | Software Engineer I (Thornton, CO) | - | - | [link](https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i) |
+| 339 | N1 | 2026.10.09 | applied | New Grad Software Engineer (Full Stack) (NYC) | - | - | [link](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a) |
+| 340 | Pave Finance | 2026.10.09 | applied | Software Engineer 1 | New York, NY (hybrid) | - | [link](https://www.linkedin.com/jobs/view/4475849056) |
+| 341 | Lucid Motors | 2026.10.09 | applied | Software Engineer, ADAS Behavior Planning and Integration | Newark, CA | - | [link](https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007) |
+| 342 | Twilio | 2026.10.09 | applied | Software Engineer, Platform Access (L2) | Remote, USA (IL eligible) | - | [link](https://job-boards.greenhouse.io/twilio/jobs/8026211) |
+| 343 | Point Digital Finance | 2026.10.09 | applied | Associate Software Engineer (IC1) | San Francisco, CA (hybrid) | - | [link](https://point.com/careers/job/associate-software-engineer-8829278002) |
+| 344 | Valency Systems | 2026.10.09 | applied | Software Engineer (Full-stack) | Berkeley, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff) |
+| 345 | Fleetio | 2026.10.09 | applied | Associate Software Engineer, Marketplace | Remote, USA | - | [link](https://job-boards.greenhouse.io/fleetio/jobs/5213856007) |
+| 346 | Perpay | 2026.10.09 | applied | Super Day - Software Engineer, New Grad | Philadelphia, PA (in-person event Nov 12) | - | [link](https://job-boards.greenhouse.io/perpay/jobs/5252881007) |
 
 ## Daily Count
 
 | Date | Count |
 |---:|---:|
+| 2026.10.09 | 14 |
 | 2026.10.1 | 14 |
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
@@ -387,7 +408,7 @@ Updated: 2026-10-09
 | 2026.10.5 | 21 |
 | 2026.10.6 | 24 |
 | 2026.10.7 | 21 |
-| 2026.10.8 | 38 |
+| 2026.10.8 | 37 |
 | 2026.8.24 | 1 |
 | 2026.8.31 | 1 |
 | 2026.9.02 | 1 |
