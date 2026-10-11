@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-10
+Updated: 2026-10-11
 
 ## Summary
 
-- Total postings: 301
-- Status: applied: 298, rejected: 3
-- OA missing / not recorded: 227
-- VO missing / not recorded: 279
+- Total postings: 323
+- Status: applied: 319, rejected: 4
+- OA missing / not recorded: 245
+- VO missing / not recorded: 300
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -89,6 +89,10 @@ Updated: 2026-10-10
 | Valency Systems | Software Engineer (Full-stack) | 2026.10.09 | Berkeley, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff) |
 | Fleetio | Associate Software Engineer, Marketplace | 2026.10.09 | Remote, USA | - | [link](https://job-boards.greenhouse.io/fleetio/jobs/5213856007) |
 | Perpay | Super Day - Software Engineer, New Grad | 2026.10.09 | Philadelphia, PA (in-person event Nov 12) | - | [link](https://job-boards.greenhouse.io/perpay/jobs/5252881007) |
+| Robert Half | Software Engineer, AI | 2026.10.10 | Los Angeles, CA (Remote) | - | [link](https://www.linkedin.com/jobs/view/4478055848/) |
+| TETRAHED INC | Jr. Software Engineer - Full Time | 2026.10.10 | Washington, United States (On-site) | https://www.linkedin.com/jobs/view/4476276551/ | [link](https://www.linkedin.com/jobs/view/4476276551/) |
+| BrothersTech | Machine Learning Engineer | 2026.10.10 | Remote, USA (Remote) | - | [link](https://www.linkedin.com/jobs/view/4474812949/) |
+| Job-Hopper | Full Stack Developer (Remote) | 2026.10.10 | Cleveland, OH (Remote) | - | [link](https://www.linkedin.com/jobs/view/4476330450/) |
 
 ## Applications
 
@@ -304,7 +308,7 @@ Updated: 2026-10-10
 | 237 | GovWell | 2026.10.6 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4415704910) |
 | 241 | ID.me | 2026.10.6 | applied | Software Engineer II, Developer Portal (New Grad / Early Career) | - | - | [link](https://www.linkedin.com/jobs/view/4475896979) |
 | 243 | Orchard | 2026.10.6 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4466627281) |
-| 249 | Postman | 2026.10.6 | applied | Software Engineer - Fern | - | - | [link](https://www.linkedin.com/jobs/view/4467859093) |
+| 249 | Postman | 2026.10.6 | rejected | Software Engineer - Fern | - | - | [link](https://www.linkedin.com/jobs/view/4467859093) |
 | 250 | Pylon | 2026.10.6 | applied | Software, New Grad | - | - | [link](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) |
 | 251 | Kato | 2026.10.6 | applied | Software Engineer | - | - | [link](https://www.linkedin.com/jobs/view/4468298848) |
 | 252 | Otter.ai | 2026.10.6 | applied | Software Engineer, Backend (Infrastructure) | - | - | [link](https://www.linkedin.com/jobs/view/4466563631) |
@@ -395,6 +399,28 @@ Updated: 2026-10-10
 | 344 | Valency Systems | 2026.10.09 | applied | Software Engineer (Full-stack) | Berkeley, CA (hybrid) | - | [link](https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff) |
 | 345 | Fleetio | 2026.10.09 | applied | Associate Software Engineer, Marketplace | Remote, USA | - | [link](https://job-boards.greenhouse.io/fleetio/jobs/5213856007) |
 | 346 | Perpay | 2026.10.09 | applied | Super Day - Software Engineer, New Grad | Philadelphia, PA (in-person event Nov 12) | - | [link](https://job-boards.greenhouse.io/perpay/jobs/5252881007) |
+| 347 | Robert Half | 2026.10.10 | applied | Software Engineer, AI | Los Angeles, CA (Remote) | - | [link](https://www.linkedin.com/jobs/view/4478055848/) |
+| 348 | TETRAHED INC | 2026.10.10 | applied | Jr. Software Engineer - Full Time | Washington, United States (On-site) | https://www.linkedin.com/jobs/view/4476276551/ | [link](https://www.linkedin.com/jobs/view/4476276551/) |
+| 349 | BrothersTech | 2026.10.10 | applied | Machine Learning Engineer | Remote, USA (Remote) | - | [link](https://www.linkedin.com/jobs/view/4474812949/) |
+| 350 | Job-Hopper | 2026.10.10 | applied | Full Stack Developer (Remote) | Cleveland, OH (Remote) | - | [link](https://www.linkedin.com/jobs/view/4476330450/) |
+| 351 | Vizient | 2026.10.10 | applied | Associate Software Engineer (Req 35387R, Irving TX) | - | - | [link](https://careers.vizientinc.com/careers/apply?pid=446721364120) |
+| 352 | Whoop | 2026.10.10 | applied | Android Engineer I (Boston) | - | - | [link](https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173) |
+| 353 | Becton Dickinson | 2026.10.10 | applied | Software Engineer I (Sparks, MD) | - | - | [link](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1) |
+| 354 | PathAI | 2026.10.10 | applied | Software Engineer I, Fullstack (Boston, MA) | - | - | [link](https://www.pathai.com/career/job-post?gh_jid=8696764002) |
+| 355 | Yext | 2026.10.10 | applied | Software Engineer (Washington, DC) | - | - | [link](https://job-boards.greenhouse.io/yext/jobs/8224109) |
+| 356 | Elemental Machines | 2026.10.10 | applied | Embedded Software Engineer (Cambridge, MA) | - | - | [link](https://www.linkedin.com/jobs/view/4477222403/) |
+| 357 | Roulettech Inc. | 2026.10.10 | applied | Software Engineer \| KangaCook (Remote) | - | - | [link](https://app.joinhandshake.com/job-search/11629568) |
+| 358 | TEMup.AI | 2026.10.10 | applied | Developer (Richmond, VA) | - | - | [link](https://www.linkedin.com/jobs/view/4478063717/) |
+| 359 | San Diego Blood Bank | 2026.10.10 | applied | Software Engineer I (San Diego, CA) | - | - | [link](https://j.brt.mv/PortalViewRequirement.do?reqGK=27786840) |
+| 360 | NVIDIA | 2026.10.10 | applied | system SWE 26NG | - | - | [link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458?utm_source=anitab.org+job+board&utm_medium=getro.com&gh_src=anitab.org+job+board) |
+| 361 | Kingfisher Company | 2026.10.10 | applied | Full Stack Engineer (Austin, TX) | - | - | [link](https://www.linkedin.com/jobs/view/4477846726/) |
+| 362 | Cary Street Partners | 2026.10.10 | applied | Application Developer, Automation & AI Engineer (Richmond, VA) | - | - | [link](https://www.linkedin.com/jobs/view/4477498017/) |
+| 363 | Ocean Friends | 2026.10.10 | applied | Software Engineer (Seattle, WA) | - | - | [link](https://www.linkedin.com/jobs/view/4476248592/) |
+| 364 | HighByte | 2026.10.10 | applied | Software Engineer (Portland, ME) | - | - | [link](https://www.linkedin.com/jobs/view/4475988568/) |
+| 365 | Skyrocket Ventures | 2026.10.10 | applied | Front End Software Engineer / Design Engineer (SF) | - | - | [link](https://www.linkedin.com/jobs/view/4476878344/) |
+| 366 | HCLTech | 2026.10.10 | applied | Python Developer (Burlingame, CA) | - | - | [link](https://www.linkedin.com/jobs/view/4474097893/) |
+| 367 | UMATR | 2026.10.10 | applied | Python Engineer (SF Bay Area) | - | - | [link](https://www.linkedin.com/jobs/view/4459949472/) |
+| 368 | Avanta Labs | 2026.10.10 | applied | Forward Deployed Generative AI Engineering (Chicago) | - | - | [link](https://www.linkedin.com/jobs/view/4476843254/) |
 
 ## Daily Count
 
@@ -402,6 +428,7 @@ Updated: 2026-10-10
 |---:|---:|
 | 2026.10.09 | 14 |
 | 2026.10.1 | 14 |
+| 2026.10.10 | 22 |
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
 | 2026.10.4 | 26 |
