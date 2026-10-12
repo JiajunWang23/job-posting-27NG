@@ -1,14 +1,14 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-11
+Updated: 2026-10-12
 
 ## Summary
 
-- Total postings: 323
-- Status: applied: 319, rejected: 4
-- OA missing / not recorded: 245
-- VO missing / not recorded: 300
+- Total postings: 333
+- Status: applied: 329, rejected: 4
+- OA missing / not recorded: 255
+- VO missing / not recorded: 310
 - Most recent application date: 2026.9.30
 
 ## Follow-up Queue
@@ -421,6 +421,16 @@ Updated: 2026-10-11
 | 366 | HCLTech | 2026.10.10 | applied | Python Developer (Burlingame, CA) | - | - | [link](https://www.linkedin.com/jobs/view/4474097893/) |
 | 367 | UMATR | 2026.10.10 | applied | Python Engineer (SF Bay Area) | - | - | [link](https://www.linkedin.com/jobs/view/4459949472/) |
 | 368 | Avanta Labs | 2026.10.10 | applied | Forward Deployed Generative AI Engineering (Chicago) | - | - | [link](https://www.linkedin.com/jobs/view/4476843254/) |
+| 369 | NVIDIA | 2026.10.10 | applied | C++ SWE 26NG | - | - | [link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) |
+| 370 | Leon Recruitment | 2026.10.11 | applied | Junior Software Engineer (Software Engineer I, C#/.NET & AI-Assisted Development, Miami FL) | - | - | [link](https://www.linkedin.com/jobs/view/4478066503/) |
+| 371 | venture up | 2026.10.11 | applied | strategic projects associate - coding | - | - | [link](https://www.linkedin.com/jobs/view/4477805435/) |
+| 372 | Brain Corp | 2026.10.11 | applied | Software Engineer I, Firmware (San Diego, CA) | - | - | [link](https://www.braincorp.com/open-positions?gh_jid=8879726002) |
+| 373 | Nodal Exchange | 2026.10.11 | applied | Software Engineer (Tysons Corner, VA, Hybrid) | - | - | [link](https://nodalexchange.pinpointhq.com/en/postings/8be4bd8c-4153-4e59-b886-8495d2240f2e) |
+| 374 | IXL Learning | 2026.10.11 | applied | Software Engineer, New Grad (California) (San Mateo, CA) | - | - | [link](https://www.ixl.com/company/careers/apply?gh_jid=8862043002) |
+| 375 | ByteDance | 2026.10.11 | applied | Software Engineer - Data Agent & Agentic Search (San Jose, onsite) | - | - | [link](https://www.linkedin.com/jobs/view/4473371768/) |
+| 376 | Sentry | 2026.10.11 | applied | Software Engineer, New Grad (2027) (San Francisco, CA, Hybrid) | - | - | [link](https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421) |
+| 377 | Pylon | 2026.10.11 | applied | Software Engineer, New Grad (San Francisco, CA) | - | - | [link](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) |
+| 378 | Hyphenate | 2026.10.11 | applied | Software Engineer (New Grad) (New York City, NY, On-site) | - | - | [link](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e) |
 
 ## Daily Count
 
@@ -428,7 +438,8 @@ Updated: 2026-10-11
 |---:|---:|
 | 2026.10.09 | 14 |
 | 2026.10.1 | 14 |
-| 2026.10.10 | 22 |
+| 2026.10.10 | 23 |
+| 2026.10.11 | 9 |
 | 2026.10.2 | 19 |
 | 2026.10.3 | 20 |
 | 2026.10.4 | 26 |
