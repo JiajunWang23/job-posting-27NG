@@ -1,15 +1,15 @@
 # job posting 27NG
 
 Source: Jiajun tab from the shared Google Sheet
-Updated: 2026-10-13
+Updated: 2026-10-14
 
 ## Summary
 
-- Total postings: 380
-- Status: applied: 369, failed: 1, rejected: 10
-- OA missing / not recorded: 302
-- VO missing / not recorded: 357
-- Most recent application date: 2026.10.12
+- Total postings: 382
+- Status: applied: 371, failed: 1, rejected: 10
+- OA missing / not recorded: 304
+- VO missing / not recorded: 359
+- Most recent application date: 2026.10.13
 
 ## Follow-up Queue
 
@@ -478,6 +478,8 @@ Updated: 2026-10-13
 | 429 | Relativity | 2026.09.15 | rejected | Software Engineer | - | - | - |
 | 430 | Dow Jones | 2026.09.03 | rejected | Software Engineer I - AI & ML Foundation Technology | - | - | - |
 | 431 | Cisco | 2026.10.02 | rejected | FY26 Software Engineer Full Stack & Application Development I (Req. 2000087) | - | - | - |
+| 435 | micro1 | 2026.10.12 | applied | AI/ML Engineer, Internal Platforms | - | - | [link](https://jobs.micro1.ai/post/7c09cefc-fd08-4ee4-b792-48e3a4753e9c?mid=40d4aaf7-8413-44e3-8184-71ef9a3a4fb5&t=1&utm_source=linkedin) |
+| 436 | Applied Materials | 2026.10.13 | applied | New College Grad Software Engineer I (Bachelors), Santa Clara CA (R2628998) | - | - | [link](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-Clara%2CCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998/apply) |
 
 ## Daily Count
 
@@ -514,4 +516,5 @@ Updated: 2026-10-13
 | 2026.10.09 | 15 |
 | 2026.10.10 | 27 |
 | 2026.10.11 | 10 |
-| 2026.10.12 | 16 |
+| 2026.10.12 | 17 |
+| 2026.10.13 | 1 |
